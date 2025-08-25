@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello my name is Devin, and I'm an engineering major.
 
 <!--
 **devin112112/devin112112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
